@@ -1,4 +1,4 @@
-<footer class="bg-slate-100 dark:bg-neutral-900 pt-16 pb-8 px-4 md:px-8">
+<footer class="bg-slate-100 dark:bg-neutral-900 border-t border-slate-300 dark:border-neutral-700 pt-16 pb-8 px-4 md:px-8">
    <div class="max-w-md">
       <a href="#"
          class="min-h-12 inline-block focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded">
